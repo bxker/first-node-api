@@ -5,10 +5,6 @@
             {
                 "first_name": "Brian",
                 "last_name": "Billham"
-            },
-            {
-                "first_name": "Tommi",
-                "last_name": "Collin"
             }
         ],
         "city": "Farafangana",
@@ -29,10 +25,6 @@
             {
                 "first_name": "Siusan",
                 "last_name": "McCallum"
-            },
-            {
-                "first_name": "Giovanna",
-                "last_name": "MacGrath"
             }
         ],
         "city": "Marks",
@@ -53,10 +45,6 @@
             {
                 "first_name": "Fanechka",
                 "last_name": "Lambard"
-            },
-            {
-                "first_name": "Edin",
-                "last_name": "Seccombe"
             }
         ],
         "city": "Sumberkemuning",
@@ -77,10 +65,6 @@
             {
                 "first_name": "Lona",
                 "last_name": "Fibbitts"
-            },
-            {
-                "first_name": "Sallie",
-                "last_name": "Gyurkovics"
             }
         ],
         "city": "Wan Yai",
@@ -101,10 +85,6 @@
             {
                 "first_name": "Katharine",
                 "last_name": "Hessle"
-            },
-            {
-                "first_name": "Wanda",
-                "last_name": "Hinckesman"
             }
         ],
         "city": "Tuplice",
@@ -125,10 +105,6 @@
             {
                 "first_name": "Anthea",
                 "last_name": "Lates"
-            },
-            {
-                "first_name": "Bartholemy",
-                "last_name": "Siemantel"
             }
         ],
         "city": "Chishtiān Mandi",
@@ -149,10 +125,6 @@
             {
                 "first_name": "Francois",
                 "last_name": "Lambkin"
-            },
-            {
-                "first_name": "Caty",
-                "last_name": "Danbye"
             }
         ],
         "city": "San Carlos de Bariloche",
@@ -173,10 +145,6 @@
             {
                 "first_name": "Elissa",
                 "last_name": "Colly"
-            },
-            {
-                "first_name": "Delcine",
-                "last_name": "Ariss"
             }
         ],
         "city": "Merritt",
@@ -197,10 +165,6 @@
             {
                 "first_name": "Nikki",
                 "last_name": "Heeley"
-            },
-            {
-                "first_name": "Rolph",
-                "last_name": "Redparth"
             }
         ],
         "city": "Shijia",
@@ -221,10 +185,6 @@
             {
                 "first_name": "Ermengarde",
                 "last_name": "Onyon"
-            },
-            {
-                "first_name": "Renae",
-                "last_name": "Semeniuk"
             }
         ],
         "city": "København",
@@ -245,10 +205,6 @@
             {
                 "first_name": "Humfrey",
                 "last_name": "Bugbee"
-            },
-            {
-                "first_name": "Towney",
-                "last_name": "Merrett"
             }
         ],
         "city": "Al Ḩāmūl",
@@ -269,10 +225,6 @@
             {
                 "first_name": "Vina",
                 "last_name": "Lockie"
-            },
-            {
-                "first_name": "Estell",
-                "last_name": "Baxter"
             }
         ],
         "city": "Yima",
@@ -293,10 +245,6 @@
             {
                 "first_name": "Mickey",
                 "last_name": "Levesque"
-            },
-            {
-                "first_name": "Rey",
-                "last_name": "Kirkwood"
             }
         ],
         "city": "Asykata",
@@ -317,10 +265,6 @@
             {
                 "first_name": "Ella",
                 "last_name": "Padberry"
-            },
-            {
-                "first_name": "Vaclav",
-                "last_name": "Jeffers"
             }
         ],
         "city": "Dongfeng",
@@ -341,10 +285,6 @@
             {
                 "first_name": "Fitz",
                 "last_name": "Viggers"
-            },
-            {
-                "first_name": "Nanine",
-                "last_name": "Mosen"
             }
         ],
         "city": "Vuhlehirs’k",
@@ -365,10 +305,6 @@
             {
                 "first_name": "Sidonia",
                 "last_name": "Estoile"
-            },
-            {
-                "first_name": "Andeee",
-                "last_name": "Oldfield-Cherry"
             }
         ],
         "city": "Saint Pierre",
@@ -385,7 +321,7 @@
     },
     {
         "id": 17,
-        "name": null,
+        "name": [{"first_name": "John", "last_name": "Doe"}],
         "city": "Kibondo",
         "country": "Tanzania",
         "employer": "Photobug",
@@ -404,10 +340,6 @@
             {
                 "first_name": "Frederica",
                 "last_name": "MacArte"
-            },
-            {
-                "first_name": "Harriot",
-                "last_name": "Braunton"
             }
         ],
         "city": "Lunen",
@@ -428,10 +360,6 @@
             {
                 "first_name": "Jaine",
                 "last_name": "Michell"
-            },
-            {
-                "first_name": "Jayme",
-                "last_name": "Jarrett"
             }
         ],
         "city": "Ribeiro",
@@ -452,10 +380,6 @@
             {
                 "first_name": "Kyrstin",
                 "last_name": "Atkyns"
-            },
-            {
-                "first_name": "Elizabet",
-                "last_name": "Greenhalf"
             }
         ],
         "city": "Tapada das Mercês",
@@ -476,10 +400,6 @@
             {
                 "first_name": "Tammy",
                 "last_name": "Astridge"
-            },
-            {
-                "first_name": "Ignaz",
-                "last_name": "Lines"
             }
         ],
         "city": "Chimbas",
@@ -500,10 +420,6 @@
             {
                 "first_name": "Eartha",
                 "last_name": "Berisford"
-            },
-            {
-                "first_name": "Martina",
-                "last_name": "Westgarth"
             }
         ],
         "city": "Pondokunyur",
@@ -524,10 +440,6 @@
             {
                 "first_name": "Geordie",
                 "last_name": "Camock"
-            },
-            {
-                "first_name": "Maighdiln",
-                "last_name": "Stepto"
             }
         ],
         "city": "Najd al Jumā‘ī",
@@ -548,10 +460,6 @@
             {
                 "first_name": "Earvin",
                 "last_name": "Gibbins"
-            },
-            {
-                "first_name": "Willabella",
-                "last_name": "Graalmans"
             }
         ],
         "city": "Pelabuhan Dagang",
@@ -572,10 +480,6 @@
             {
                 "first_name": "Malchy",
                 "last_name": "Aizikovitch"
-            },
-            {
-                "first_name": "Raeann",
-                "last_name": "Greally"
             }
         ],
         "city": "Suhe",
@@ -589,5 +493,5 @@
                 "3": "Cross My Heart"
             }
         ]
-    },
+    }
 ]
